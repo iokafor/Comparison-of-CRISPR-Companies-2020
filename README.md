@@ -10,8 +10,11 @@ To understand the financial health of companies, it is important to look at thei
 
 # Data solution
 ![Market Cap] (https://github.com/iokafor/Comparison-of-CRISPR-Companies-2020/blob/main/Analytics%20class%20final_what%20CRISPR%20company%20is%20in%20good%20shape/Slide06.jpg?raw=true)
+
 ![Revenue] (https://github.com/iokafor/Comparison-of-CRISPR-Companies-2020/blob/main/Analytics%20class%20final_what%20CRISPR%20company%20is%20in%20good%20shape/Slide07.jpg?raw=true)
+
 ![Operating Income] (https://github.com/iokafor/Comparison-of-CRISPR-Companies-2020/blob/main/Analytics%20class%20final_what%20CRISPR%20company%20is%20in%20good%20shape/Slide09.jpg?raw=true)
+
 ![assets] (https://github.com/iokafor/Comparison-of-CRISPR-Companies-2020/blob/main/Analytics%20class%20final_what%20CRISPR%20company%20is%20in%20good%20shape/Slide08.jpg?raw=true)
 
 # Business/industry/civic/research solution
