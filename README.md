@@ -7,3 +7,7 @@ My current PhD thesis deals with understanding the chemical and physical nature 
 
 # Data question
 To understand the financial health of companies, it is important to look at their balance sheet and income statements. These two documents outline how money is spent, earned, and utilized by the company. To identify the top 5 CRIPSR companies, I looked at the market cap for releveant companies. To measure the money earned, I recorded the revenue over the past 3 years. These companies are early stage and pre-clinical, so revenue is not necessarily the most important metric. I looked at the operating income to see how the money is being spent on an ongoing basis. I also looked at the assests, which may reveal how well the R&D or platform technology is.  
+
+# Data solution
+
+
